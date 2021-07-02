@@ -13,7 +13,6 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.5.1</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.hls.spring</groupId>
     <artifactId>spring-boot-dubbo</artifactId>
